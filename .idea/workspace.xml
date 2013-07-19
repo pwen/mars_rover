@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="770d2d2a-3c65-4f29-b9d2-50f902307ab7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/com/twu/rover/MainTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/com/twu/rover/MyFileReaderTest.java" afterPath="$PROJECT_DIR$/test/com/twu/rover/MyFileReaderTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/com/twu/rover/PositionTest.java" afterPath="$PROJECT_DIR$/test/com/twu/rover/PositionTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/com/twu/rover/QueueTest.java" afterPath="$PROJECT_DIR$/test/com/twu/rover/QueueTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/twu/rover/Main.java" afterPath="$PROJECT_DIR$/src/com/twu/rover/Main.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Rover.iws" />
@@ -20,12 +13,12 @@
     <file path="/fragment.java" changelist="770d2d2a-3c65-4f29-b9d2-50f902307ab7" time="1374191086516" ignored="false" />
     <file path="/QueueTest.java" changelist="770d2d2a-3c65-4f29-b9d2-50f902307ab7" time="1373900854932" ignored="false" />
     <file path="/MyFileReader.java" changelist="770d2d2a-3c65-4f29-b9d2-50f902307ab7" time="1373919615432" ignored="false" />
-    <file path="/Main.java" changelist="770d2d2a-3c65-4f29-b9d2-50f902307ab7" time="1374192834432" ignored="false" />
+    <file path="/Main.java" changelist="770d2d2a-3c65-4f29-b9d2-50f902307ab7" time="1374193992874" ignored="false" />
     <file path="/Direction.java" changelist="770d2d2a-3c65-4f29-b9d2-50f902307ab7" time="1373909925870" ignored="false" />
     <file path="/Heading.java" changelist="770d2d2a-3c65-4f29-b9d2-50f902307ab7" time="1373919306388" ignored="false" />
     <file path="/HeadingTest.java" changelist="770d2d2a-3c65-4f29-b9d2-50f902307ab7" time="1373920122697" ignored="false" />
     <file path="/RoverTest.java" changelist="770d2d2a-3c65-4f29-b9d2-50f902307ab7" time="1373916986293" ignored="false" />
-    <file path="/Dummy.txt" changelist="770d2d2a-3c65-4f29-b9d2-50f902307ab7" time="1374190921046" ignored="false" />
+    <file path="/Dummy.txt" changelist="770d2d2a-3c65-4f29-b9d2-50f902307ab7" time="1374198088538" ignored="false" />
     <file path="/PositionTest.java" changelist="770d2d2a-3c65-4f29-b9d2-50f902307ab7" time="1374192656196" ignored="false" />
     <file path="/MyFileReaderTest.java" changelist="770d2d2a-3c65-4f29-b9d2-50f902307ab7" time="1374191246658" ignored="false" />
     <file path="/MainTest.java" changelist="770d2d2a-3c65-4f29-b9d2-50f902307ab7" time="1374192819466" ignored="false" />
@@ -102,9 +95,7 @@
         <entry file="file://$PROJECT_DIR$/test/com/twu/rover/PositionTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="43" column="4" selection-start="1169" selection-end="1169" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -127,21 +118,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/twu/rover/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="19" selection-start="43" selection-end="43" vertical-scroll-proportion="0.0">
+            <state line="21" column="124" selection-start="558" selection-end="558" vertical-scroll-proportion="0.0">
               <folding>
-                <element signature="e#124#131#0" expanded="true" />
+                <element signature="e#159#166#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainTest.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="MainTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/com/twu/rover/MainTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="39" selection-start="125" selection-end="125" vertical-scroll-proportion="0.1764706">
+            <state line="5" column="39" selection-start="125" selection-end="125" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -177,8 +168,8 @@
         <option value="$PROJECT_DIR$/test/com/twu/rover/MyFileReaderTest.java" />
         <option value="$PROJECT_DIR$/test/com/twu/rover/QueueTest.java" />
         <option value="$PROJECT_DIR$/test/com/twu/rover/PositionTest.java" />
-        <option value="$PROJECT_DIR$/src/com/twu/rover/Main.java" />
         <option value="$PROJECT_DIR$/test/com/twu/rover/MainTest.java" />
+        <option value="$PROJECT_DIR$/src/com/twu/rover/Main.java" />
       </list>
     </option>
   </component>
@@ -287,11 +278,12 @@
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="false" />
+    <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -301,41 +293,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PositionTest.shouldNotDecrementCoordinatesOutsideMapBoundaries">
-    <configuration default="false" name="RoverTest.shouldMoveCorrectlyAccordingToInstructionsWithHittingWalls" type="JUnit" factoryName="JUnit" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.twu.rover.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="Rover" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.twu.rover" />
-      <option name="MAIN_CLASS_NAME" value="com.twu.rover.RoverTest" />
-      <option name="METHOD_NAME" value="shouldMoveCorrectlyAccordingToInstructionsWithHittingWalls" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration default="false" name="PositionTest.shouldIncrementCoordinatesWithinMapBoundaries" type="JUnit" factoryName="JUnit" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -448,6 +406,28 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
+    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.twu.rover.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.twu.rover.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="mars_rover" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
@@ -460,19 +440,6 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -501,6 +468,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -540,19 +520,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.RoverTest.shouldMoveCorrectlyAccordingToInstructionsWithHittingWalls" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.PositionTest.shouldIncrementCoordinatesWithinMapBoundaries" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.PositionTest.shouldNotIncrementCoordinatesOutsideMapBoundaries" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.PositionTest.shouldDecrementCoordinatesWithinMapBoundaries" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.PositionTest.shouldNotDecrementCoordinatesOutsideMapBoundaries" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.PositionTest.shouldIncrementCoordinatesWithinMapBoundaries" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.PositionTest.shouldNotIncrementCoordinatesOutsideMapBoundaries" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.PositionTest.shouldDecrementCoordinatesWithinMapBoundaries" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.PositionTest.shouldNotDecrementCoordinatesOutsideMapBoundaries" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.PositionTest.shouldNotDecrementCoordinatesOutsideMapBoundaries" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.PositionTest.shouldDecrementCoordinatesWithinMapBoundaries" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.PositionTest.shouldNotIncrementCoordinatesOutsideMapBoundaries" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.PositionTest.shouldIncrementCoordinatesWithinMapBoundaries" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.RoverTest.shouldMoveCorrectlyAccordingToInstructionsWithHittingWalls" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.PositionTest.shouldNotDecrementCoordinatesOutsideMapBoundaries" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.PositionTest.shouldDecrementCoordinatesWithinMapBoundaries" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.PositionTest.shouldNotIncrementCoordinatesOutsideMapBoundaries" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.PositionTest.shouldIncrementCoordinatesWithinMapBoundaries" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -588,7 +568,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="22" width="1420" height="795" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -601,19 +581,19 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3288889" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2496361" sideWeight="0.6711111" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3288889" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3288889" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293944" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3288889" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -686,18 +666,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="17" selection-start="37" selection-end="41" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="e#124#131#0" expanded="true" />
+            <element signature="e#159#166#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/twu/rover/MyFileReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="53" selection-start="537" selection-end="537" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#113#120#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="21" column="53" selection-start="537" selection-end="537" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_25.jdk/Contents/Home/jre/lib/rt.jar!/apple/laf/JRSUIConstants.class">
@@ -707,54 +683,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/twu/rover/Queue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="28" selection-start="640" selection-end="640" vertical-scroll-proportion="0.49411765">
-          <folding>
-            <element signature="e#1328#1337#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="32" column="28" selection-start="640" selection-end="640" vertical-scroll-proportion="0.49411765" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mars_rover.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/twu/rover/Heading.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="30" selection-start="514" selection-end="514" vertical-scroll-proportion="0.024038462">
-          <folding />
-        </state>
+        <state line="15" column="30" selection-start="514" selection-end="514" vertical-scroll-proportion="0.024038462" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/twu/rover/Rover.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="30" selection-start="602" selection-end="602" vertical-scroll-proportion="0.40865386">
-          <folding />
-        </state>
+        <state line="17" column="30" selection-start="602" selection-end="602" vertical-scroll-proportion="0.40865386" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/twu/rover/MyFileReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="73" selection-start="1015" selection-end="1015" vertical-scroll-proportion="0.6166924">
-          <folding>
-            <element signature="e#113#120#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="31" column="73" selection-start="1015" selection-end="1015" vertical-scroll-proportion="0.6166924" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/com/twu/rover/QueueTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="4" selection-start="1037" selection-end="1037" vertical-scroll-proportion="0.8377125">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#345#354#0" expanded="true" />
-            <element signature="e#552#561#0" expanded="true" />
-            <element signature="e#813#822#0" expanded="true" />
-            <element signature="e#962#971#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="41" column="4" selection-start="1037" selection-end="1037" vertical-scroll-proportion="0.8377125" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/com/twu/rover/RoverTest.java">
@@ -767,25 +721,19 @@
     <entry file="file://$PROJECT_DIR$/test/com/twu/rover/PositionTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="43" column="4" selection-start="1169" selection-end="1169" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/com/twu/rover/MyFileReaderTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="3" selection-start="91" selection-end="91" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/com/twu/rover/HeadingTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="14" selection-start="116" selection-end="116" vertical-scroll-proportion="0.20941177">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="6" column="14" selection-start="116" selection-end="116" vertical-scroll-proportion="0.20941177" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/twu/rover/MainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="39" selection-start="125" selection-end="125" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -796,19 +744,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/twu/rover/Main.java">
+    <entry file="file://$PROJECT_DIR$/test/com/twu/rover/MyFileReaderTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="19" selection-start="43" selection-end="43" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#124#131#0" expanded="true" />
-          </folding>
+        <state line="5" column="3" selection-start="91" selection-end="91" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/com/twu/rover/MainTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/twu/rover/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="39" selection-start="125" selection-end="125" vertical-scroll-proportion="0.1764706">
-          <folding />
+        <state line="21" column="124" selection-start="558" selection-end="558" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#159#166#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
